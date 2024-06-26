@@ -33,7 +33,7 @@ class _OrderState extends State<Order> {
   // Search for "gmail app password 2fa"
   // The alternative is to use oauth.
   String username = 'chiragferwani@gmail.com';
-  String password = 'mmvl fach lfyq ypzp';
+  String password = 'Enter your app key';
 
   final smtpServer = gmail(username, password);
   // Use the SmtpServer class to configure an SMTP server:
