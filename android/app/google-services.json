@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685276759464",
+    "project_id": "matchmaster-94765",
+    "storage_bucket": "matchmaster-94765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685276759464:android:3f4a2f9f29a8d82d01099d",
+        "android_client_info": {
+          "package_name": "com.example.matchmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn3l5Ww3rYat08NQa9Y-aIbJqk9RB8c4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
